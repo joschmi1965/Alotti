@@ -11,7 +11,9 @@
 Change in PGN dataset, import to Ankibot, review the change and unmark the card.
 - Backp your PGN dataset.
 
+
 <!-- INSTALLATION -->
+
 ### Installation and accounts
 
 ##### Anki on Windows and on Android mobiles
@@ -25,6 +27,7 @@ TODO
 ##### Ease to manage your data
 - Install Microsoft VS code on Windows and create workspace for your data.
 - Create Github account, create a private repository and backup your source data to the cloud.
+
 
 <!-- TUTORIAL LIST -->
 
@@ -51,7 +54,8 @@ TODO
 - Analyse games by Lichess studies and derive learning material from this.
 - Create support, feature and bug fix requests for this project.
 
-<!-- DATA -->
+<!-- DATA ON WINDOWS -->
+
 ### Data as prerequisites
 Input data is expected here in *.csv files in pgn notation:
 C:\Users\<user>\Documents\Aktuell\Lernen\Schach\

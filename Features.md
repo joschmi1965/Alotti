@@ -1,5 +1,6 @@
-<!-- FEATURE -->
-### Feature
+<!-- Features -->
+
+### Current features
 Generates import files for Anki index cards from fen and pgn input data.
 Import files for index cards contain per line:
 - front: a quest position, last move visualized
@@ -48,16 +49,14 @@ To clean all up eg. to do a fresh new start you have to
 Notes:
 - For Anki index cards referenced svg files are saved as media files under a default path in user's home
 
-<!-- USAGE -->
-## Usage
 
-cd <HOME>\Projects\KartenGenerator\KartenGenerator
-Python ChessFlashCardGenerator.py --input --focus Positions/White/Kata_e6-Nf6-d5-dxc4.csv
-Python ChessFlashCardGenerator.py --input Endgames/Till2000/*.csv
-Python ChessFlashCardGenerator.py --input Positions/*/*.csv -c -e 0.2
-Python -m unittest -v
-Python -m unittest -v test.test_ChessFlashCardFenReader.TestChessFlashCardFenReader
+### Usage
+TODO build installer or run on VM
+
 
 <!-- COPYRIGHT -->
+
+Copyright Joachim Schmidt, 2023
+All rights reserved.
 Copyright Joachim Schmidt, 2023
 All rights reserved.
