@@ -1,4 +1,4 @@
-<!-- TIPPS AND TRICKS -->
+## Tipps
 
 ### Leverage from Anki features
 - Check how often you had to repeat cards and check whether more answers make sense.
@@ -10,6 +10,8 @@
 ### Know how to work with Anki
 - Know the consequences when you change your data.
 
-<!-- COPYRIGHT -->
+
+## Copyright
+
 Copyright Joachim Schmidt, 2023
 All rights reserved.

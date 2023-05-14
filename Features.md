@@ -1,4 +1,4 @@
-<!-- Features -->
+## Features
 
 ### Current features
 Generates import files for Anki index cards from fen and pgn input data.
@@ -49,14 +49,6 @@ To clean all up eg. to do a fresh new start you have to
 Notes:
 - For Anki index cards referenced svg files are saved as media files under a default path in user's home
 
-
-### Usage
-TODO build installer or run on VM
-
-
-<!-- COPYRIGHT -->
-
-Copyright Joachim Schmidt, 2023
-All rights reserved.
+### Copyright
 Copyright Joachim Schmidt, 2023
 All rights reserved.
