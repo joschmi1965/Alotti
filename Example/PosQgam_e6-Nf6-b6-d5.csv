@@ -1,0 +1,13 @@
+[QGam/e6-Nf6-b6-d5/fen]
+
+{CM2023/Vladutescu-Zopp_Stephan:} FEN 'rn1q1rk1/pbp1bppp/1p2pn2/3p2B1/2PP4/2NBPN2/PP3PPP/R2Q1RK1 b - - 1 8' 8. .. Nbd7 {Was ist Weiß Antwort? (1..2)}> 9. Bf4 Nh5 10. Be5
+{CM2023/Vladutescu-Zopp_Stephan:} FEN 'r2q1rk1/pbpnBppp/1p2p3/3p4/2PPn3/2NBPN2/PP3PPP/2RQ1RK1 b - - 0 10' 10. .. Qxe7 {Was ist Weiß Antwort?}> 11. cxd5
+{CM2023/Vladutescu-Zopp_Stephan:} FEN 'r4rk1/pbpnqppp/1p2p3/3p4/2PPn3/2NBP3/PP1N1PPP/2RQ1RK1 b - - 1 11' 11. .. f5 {Was ist Weiß Antwort? (2..3)}> 12. cxd5 Nxd2 13. Qxd2 exd5 14. Ne2 {Oder Rc2, Rfe1, Qc2.}
+{CM2023/Vladutescu-Zopp_Stephan:} FEN 'r4rk1/pbp1q1pp/1p2pn2/3p1p2/2PP4/3BPP2/PP1QN1PP/2R2RK1 b - - 2 14' 14. .. Rad8 {Was ist Weiß Antwort?}> 15. c5 
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '3r1rk1/pbp1q1pp/1p2pn2/2Pp1p2/3P4/3BPP2/PP1QN1PP/2R2RK1 b - - 0 15' 15. .. Bc8 {Was ist Weiß Antwort?}> 16. Rc3
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '2br1rk1/p1p1q1pp/1p3n2/2PpPp2/8/2RBPP2/PP1QN1PP/5RK1 b - - 0 17' 17. .. Qxe5 {Was ist Weiß Antwort? (2..3)}> 18. Rfc1 Rfe8 19. cxb6 cxb6 20. Rc7
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '2b1rrk1/p1p3pp/5n2/2Rpqp2/3N4/4PP2/PP1Q2PP/1B3RK1 b - - 0 20' 20. .. Nd7 {Was ist Weiß Antwort? (3..5)}> 21. f4 Qxe3 22. Qxe3 Rxe3 23. Rxc7 Nf6 24. Rfc1
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '2b1rrk1/R2n3p/6p1/2ppqp2/8/4PP2/PPNQ2PP/1B3RK1 b - - 1 23' 23. .. Nf6 {Was ist Weiß Antwort? (1..2)}> 24. b4 cxb4 25. Qxb4
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '2b1rrk1/7p/3q1np1/R1pp1p2/8/2Q1PP2/PPN3PP/1B3RK1 b - - 5 25' 25. .. c4 {Was ist Weiß Antwort?}> 26. Qd4
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '2b1rrk1/7p/3q1np1/R2p1p2/2pN4/2Q1PP2/PP4PP/1B3RK1 b - - 1 26' 26. .. Qb6 {Was ist Weiß Antwort?}> 27. Rb5
+{CM2023/Vladutescu-Zopp_Stephan:} FEN '2b2rk1/4r2p/1q3np1/3p1p2/2pN4/R3PP2/PP1Q2PP/1B3RK1 b - - 5 28' 28. .. Rfe8 {Was ist Weiß Antwort?}> 29. f4
