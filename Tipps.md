@@ -10,6 +10,10 @@
 ### Know how to work with Anki
 - Know the consequences when you change your data.
 
+### Data protection and rights
+- Don't make a business on top by the data derived from books or similar sources.
+- Don't publish your data in case it exposes vulnerabilities of your opening repertoire.
+
 
 ## Copyright
 
