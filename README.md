@@ -8,7 +8,7 @@ All based on Anki, a platform for to learn by flash cards.
 
 ### Features
 Here is a small 1-pager for an overview of features:
-https://github.com/joschmi1965/Alotti/blob/main/Onepager.pdf
+https://github.com/joschmi1965/Alotti/blob/main/Twopager.pdf
 
 More details:
 https://github.com/joschmi1965/Alotti/blob/main/Features.md
