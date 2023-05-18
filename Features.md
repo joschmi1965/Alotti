@@ -1,10 +1,10 @@
 ## Features
 
 ### Current features
-Generates import files for Anki™ index cards from fen and pgn input data.
+Generates import files for Anki index cards from fen and pgn input data.
 Import files for index cards contain per line:
 - front: a quest position, last move visualized
-- rear: an answer position, the move visualized, a link to Lichess™ to analyze or play the position
+- rear: an answer position, the move visualized, a link to Lichess to analyze or play the position
 Entries in import files are appended.
 Several types of input data are supported:
 - pure pgn data to learn an Opening repertoire
@@ -24,7 +24,7 @@ but keep the rest of learning data for the future learning period.
 - The pgn leads to a 1st position with last move visualized
 - Both pgn parts lead to a 2nd position with last move visualized
 - Different tags can be configured like 'Kata' and 'Caro' for a system. All input files with the same tag lead to the same import file.
-- Optionally, each position is evaluated by either cloud Lichess™ DB or a local chess engine
+- Optionally, each position is evaluated by either cloud Lichess DB or a local chess engine
 - Doubled positions are skipped and counted to log how many cards have been skipped, as a sum.
 - Doubled entries with different answers are indicated as a DATA problem (idea is to resolve such contradictions).
 - Some errors in pgn notation are detected eg. use 'Lf4' for bishop move. A log file is written.
@@ -47,7 +47,7 @@ To clean all up eg. to do a fresh new start you have to
 - synch with AnkiWeb
 
 Notes:
-- For Anki™ index cards referenced svg files are saved as media files under a default path in user's home
+- For Anki index cards referenced svg files are saved as media files under a default path in user's home
 
 ### Copyright
 © Joachim Schmidt, 2023
