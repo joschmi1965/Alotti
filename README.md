@@ -24,5 +24,11 @@ https://github.com/joschmi1965/Alotti/blob/main/Anki_platform.png
 ### Board with current state of development and further ideas on top
 https://github.com/users/joschmi1965/projects/1
 
+### Studies
+https://opensource.guide/de/starting-a-project/ 
+https://www.bitkom.org/opensource 
+https://www.zeit.de/digital/internet/2022-12/open-source-software-sovereign-tech-fund-foerderung
+https://www.silver-tipps.de/selbst-aktiv-werden-und-videos-ins-netz-stellen/ 
+
 © Joachim Schmidt, 2023
 All rights reserved.
