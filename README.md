@@ -7,7 +7,7 @@ So far it works on Windows and Android mobile. For me only.
 All based on Anki, a platform for to learn by flash cards.
 
 ### Features
-Here is a small 1-pager for an overview of features:
+Here is a small 2-pager for an overview of features:
 https://github.com/joschmi1965/Alotti/blob/main/Twopager.pdf
 
 More details:

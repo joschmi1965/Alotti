@@ -15,6 +15,12 @@ Pgn data can either be given ...
 - line by line, eg. please refer to PgnKata_d5-c6-dxc4.csv file in the Example directory
 - by a special tree format, please refer to PgnCaro_e4-d4-e5.csv file
 
+Tags are automatically created:
+- system variant
+- type Pgn, Fen
+- move deepness
+- origin
+
 On the rear index card a date/timestamp is set.
 
 For type pure pgn the following is valid:

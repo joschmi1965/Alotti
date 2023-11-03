@@ -1,5 +1,10 @@
 ## Tipps
 
+
+### Bundle your learning material in appropriate steps
+- Option A: a distinct variant in full detail.
+- Option B: Pgn and Fen in 360° for both White and Black dependent on the move deepness.
+
 ### Leverage from Anki features
 - Check how often you had to repeat cards and check whether more answers make sense.
 - Review your progress in learning whether you can reach your goal and take action if needed.
