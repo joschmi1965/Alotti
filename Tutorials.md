@@ -12,7 +12,9 @@ Change in PGN dataset, import to AnkiBot, review the change and unmark the card.
 - Backp your PGN dataset.
 
 ### Common pitfalls
-- WIN: Media files of type svg have to be properly generated and stored in C:\Users\Jo\AppData\Roaming\Anki2\<Profile>\collection.media
+- Media files of type svg have to be properly generated and stored under an OS specific location:
+  WIN: C:\Users\Jo\AppData\Roaming\Anki2\<Profile>\collection.media
+  LNX: ~\.local\share\Anki2\<Profile>\collection.media
   <Profile> corresponds to the profile you create in the AnkiBot
 
 
