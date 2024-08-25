@@ -9,7 +9,7 @@
 - Extend the Pgn data to create a 1st sub tree to start to build up your opening repertoire with the help of Lichess opening library or books.
 - While learning mark card, sync with Ankibot, review position by the help of Lichess analysis board.
 Change in PGN dataset, import to AnkiBot, review the change and unmark the card.
-- Backp your PGN dataset.
+- Backup your PGN dataset by simply copying it to 2nd disk.
 
 ### Common pitfalls
 - Media files of type svg have to be properly generated and stored under an OS specific location:
@@ -48,5 +48,5 @@ Change in PGN dataset, import to AnkiBot, review the change and unmark the card.
 
 
 ## Copyright
-© Joachim Schmidt, 2023
+© Joachim Schmidt, 2024
 All rights reserved.
