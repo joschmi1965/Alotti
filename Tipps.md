@@ -3,17 +3,19 @@
 
 ### Bundle your learning material in appropriate steps
 - Option A: a distinct variant in full detail.
-- Option B: Pgn and Fen in 360° for both White and Black dependent on the move deepness.
+- Option B: Pgn and Fen in 360° for both White and Black with the move deepness you can afford.
 
 ### Leverage from Anki features
 - Check how often you had to repeat cards and check whether more answers make sense.
-- Review your progress in learning whether you can reach your goal and take action if needed.
+- Review your progress in learning whether you can reach your goal and take action if needed by
+  (a) features of AnkiBot's statistics
+  (b) generating own data with filters on your "Stapel"
 
 ### Leverage from eg. Lichess features
 - Consider data from eg. Lichess opening library to determine the order when to learn what opening variants.
 
 ### Know how to work with Anki
-- Know the consequences when you change your data.
+- Know the consequences when you change your data, especially on the quest side (then it will be a new card)
 
 ### Data protection and rights
 - Don't make a business on top by the data derived from books or similar sources.
@@ -22,5 +24,5 @@
 
 ## Copyright
 
-© Joachim Schmidt, 2023
+© Joachim Schmidt, 2024
 All rights reserved.
