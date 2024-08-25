@@ -30,5 +30,5 @@ https://www.bitkom.org/opensource
 https://www.zeit.de/digital/internet/2022-12/open-source-software-sovereign-tech-fund-foerderung
 https://www.silver-tipps.de/selbst-aktiv-werden-und-videos-ins-netz-stellen/ 
 
-© Joachim Schmidt, 2023
+© Joachim Schmidt, 2024
 All rights reserved.
